@@ -26,6 +26,8 @@ import java.util.Map;
  *
  * 输入：nums = [3,3], target = 6
  * 输出：[0,1]
+ * 
+ * hash表
  */
 public class LinagshuHe {
 
