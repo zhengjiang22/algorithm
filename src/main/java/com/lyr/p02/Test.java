@@ -23,6 +23,13 @@ public class Test {
     }
 
 
+    /**
+     * leetcode第二题
+     * 对两个链表求和
+     * @param l1
+     * @param l2
+     * @return
+     */
     public static ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode head = null;
         ListNode tail = null;
